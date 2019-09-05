@@ -25,4 +25,4 @@ Wünsche, Anregungen und Ideen für neuen Content sende bitte an youtube@snapsec
 
 ✘ Alle Hacking Tools, Hacking Scripts und erklärte Angriffsmethoden dienen lediglich zur Fortbildung, Aufklärung und Unterstützung für Penetration Tester/Ethical Hacker. Wir haften nicht dafür, wenn du die von uns gezeigten Methoden dafür nutzt um anderen Leuten damit Schaden zu verursachen.
 
-Wenn du mehr über uns erfahren willst, dann besuche uns auf [snapsec.at](snapsec.at).
+Wenn du mehr über uns erfahren willst, dann besuche uns auf [https://snapsec.at](snapsec.at).
